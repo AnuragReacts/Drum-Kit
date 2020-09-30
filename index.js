@@ -1,5 +1,4 @@
 
-
 //detect click
 var totdrums=document.querySelectorAll(".drum").length;
 for(var i=0;i<totdrums;i++)
