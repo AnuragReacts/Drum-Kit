@@ -56,7 +56,6 @@ function makeSound(key){
 
 
 function btnanimation(currkey){
-
    var activebtn= document.querySelector("."+currkey);
    activebtn.classList.add("pressed");
    setTimeout(function(){
@@ -67,7 +66,6 @@ function btnanimation(currkey){
 
 // var aud=new Audio("sounds/crash.mp3");
 // aud.play();
-
 
 // ------or------------
 
